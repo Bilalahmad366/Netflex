@@ -240,7 +240,11 @@ footer > a {
   }
 
   .section {
+    
+    margin: auto;
+    width: 70%;
     flex-wrap: wrap;
+    padding: 17px;
   }
 
   .section-img img {
