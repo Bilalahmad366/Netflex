@@ -253,13 +253,13 @@ footer > a {
   }
 
   .main > :nth-child(1) {
-    font-size: 22px;
+    font-size: 16px;
   }
   .main > :nth-child(2) {
-    font-size: 10px;
+    font-size: 8px;
   }
   .main > :nth-child(3) {
-    font-size: 10px;
+    font-size: 8px;
   }
 
   .heading {
